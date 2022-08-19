@@ -1,1 +1,1 @@
-# gold_price_prediction
+# google_stock_price_prediction
